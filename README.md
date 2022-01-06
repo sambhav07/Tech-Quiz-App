@@ -47,3 +47,7 @@ To run this project run from command line go to dist folder and type the followi
   java -jar "Tech_Quiz_App.jar"
 ```
 
+## Demo
+
+Refer youtube link for the demo : https://www.youtube.com/watch?v=KBdbCbjEdFE
+
